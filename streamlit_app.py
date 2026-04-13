@@ -6,7 +6,7 @@ import shap
 import matplotlib.pyplot as plt
 import io, json
 
-ENDPOINT_NAME = "kpca-lasso-pipeline-endpoint-v1"
+ENDPOINT_NAME = "kpca-lasso-pipeline-endpoint-v47"
 BUCKET_NAME   = "franck-soh-s3-bucket"
 EXPLAINER_KEY = "explainer/explainer_pca.shap"
 REGION        = "us-east-1"
